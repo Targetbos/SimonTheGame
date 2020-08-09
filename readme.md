@@ -13,7 +13,7 @@
 ## Демонстрация:
 
 ```sh
-https://targetbos.github.io/registerFormVue/build/index.html
+https://targetbos.github.io/SimonTheGame/build/index.html
 ```
 ## Установка
 
